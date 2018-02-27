@@ -1,0 +1,38 @@
+#demo{
+	height: 70vh;
+	width: 70vw;
+
+	position: absolute;
+	margin: auto;
+	display: block;
+	left: 0px;
+	right: 0px;
+}
+
+#buttons{
+	width: 70vw;
+	position: relative;
+	bottom: 0px;
+	left: 37%;
+	right: 0px;
+	margin: auto;	
+}
+
+.radio{
+	
+	position: relative;
+	margin: auto;
+	display: inline-block;
+	padding: 20px;
+	left: 40%;
+}
+
+.pics1{
+	margin: auto;
+	position: relative;
+	bottom: 0px;
+	display: block;
+	left: 0px;
+	right: 0px;
+	height: 100px;
+}
